@@ -1,0 +1,13 @@
+package com.nexops;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class NexopsApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
